@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BenjaFA
 - 👀 I’m interested in PYTHON, JAVA and JS
 - 🌱 I’m currently learning JAVA and JS
-- 💞️ I’m looking to collaborate with jesus tapia
+- 💞️ I’m looking to collaborate with nothing
   
 <!---
 BenjaFA/BenjaFA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
