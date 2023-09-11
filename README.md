@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BenjaFA
-- 👀 I’m interested in PYTHON, JAVA and JS
+- 👀 I’m interested in PYTHON, JAVA, HTML, CSS and JS
 - 🌱 I’m currently learning JAVA and JS
 - 💞️ I’m looking to collaborate with smurf cat
   
